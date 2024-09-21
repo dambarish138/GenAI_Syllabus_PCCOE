@@ -83,8 +83,9 @@ AI models can predict future frames in a video sequence or synthesize new video 
 ### 2.3 Ethical Considerations
 The use of AI in image and video generation raises ethical concerns, particularly around privacy, consent, and the potential for misuse. It is crucial to develop guidelines and regulations to address these issues.
 
+---
 
-#### Topic 3: Music Composition with Example
+## Topic 3: Music Composition with Example
 
 Music composition using generative AI is an exciting and rapidly evolving field. By leveraging advanced algorithms and machine learning techniques, AI can assist in creating original music compositions, offering new tools and possibilities for musicians and composers.
 
