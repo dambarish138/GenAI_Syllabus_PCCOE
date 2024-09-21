@@ -76,9 +76,6 @@ Model training is a nuanced process that requires careful consideration of the d
 
 ---
 
-Feel free to ask for more details or examples on any specific section! What subtopic would you like to cover next?
-
-Source: Conversation with Copilot, 22/09/2024
 (1) Data Preprocessing in Machine Learning: Steps & Best Practices - lakeFS. https://lakefs.io/blog/data-preprocessing-in-machine-learning/.
 (2) Data Preprocessing in Machine Learning [Steps & Techniques]. https://www.v7labs.com/blog/data-preprocessing-guide.
 (3) Data Preparation for Machine Learning: The Ultimate Guide - Pecan AI. https://www.pecan.ai/blog/data-preparation-for-machine-learning/.
