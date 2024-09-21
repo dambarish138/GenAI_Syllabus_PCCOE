@@ -194,9 +194,7 @@ Data preprocessing is a fundamental step in the data science workflow. It ensure
 
 ---
 
-Feel free to ask for more details or examples on any specific preprocessing technique!
 
-Source: Conversation with Copilot, 22/09/2024
 (1) How to Preprocess Data in Python. https://builtin.com/machine-learning/how-to-preprocess-data-python.
 (2) Python: Data Preprocessing in Data Mining, Machine Learning. https://www.analyticsvidhya.com/blog/2021/08/data-preprocessing-in-data-mining-a-hands-on-guide/.
 (3) Python Tutorial: Data Cleaning and Preprocessing for ML. https://machinelearningmodels.org/python-tutorial-data-cleaning-and-preprocessing-for-ml/.
