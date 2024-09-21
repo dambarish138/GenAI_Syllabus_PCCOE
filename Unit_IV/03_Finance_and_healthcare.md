@@ -124,9 +124,6 @@ Generative AI is transforming health care by accelerating drug discovery, enhanc
 
 ---
 
-Feel free to ask for more details or additional subtopics!
-
-Source: Conversation with Copilot, 22/09/2024
 (1) 20 Examples of Generative AI Applications Across Industries. https://www.coursera.org/articles/generative-ai-applications.
 (2) Top 100+ Generative AI Applications / Use Cases in 2024 - AIMultiple. https://research.aimultiple.com/generative-ai-applications/.
 (3) Generative AI: Use cases & Applications - GeeksforGeeks. https://www.geeksforgeeks.org/generative-ai-use-cases-applications/.
