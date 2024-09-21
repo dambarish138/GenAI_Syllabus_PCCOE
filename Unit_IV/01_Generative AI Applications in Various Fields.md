@@ -2,7 +2,7 @@
 
 # Generative AI Applications in Various Fields
 
-## Chapter 1: Art and Creativity
+## Topic 1: Art and Creativity
 
 ### Introduction
 Generative AI has revolutionized the field of art and creativity by enabling machines to create original content. This chapter explores how AI is used to generate art, music, literature, and other creative outputs, pushing the boundaries of human imagination.
@@ -45,7 +45,7 @@ While the potential of AI in art and creativity is immense, it also raises ethic
 
 ---
 
-## Chapter 2: Image and Video Generation
+## Topic 2: Image and Video Generation
 
 ### Introduction
 Generative AI has transformed the way we create and manipulate images and videos. This chapter delves into the techniques and applications of AI in generating and enhancing visual content.
