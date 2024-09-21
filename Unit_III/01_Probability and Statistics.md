@@ -122,7 +122,6 @@ Understanding probability distributions is fundamental for data preprocessing in
 
 Feel free to ask for more details or examples on any specific type of distribution!
 
-Source: Conversation with Copilot, 22/09/2024
 (1) Probability Distributions in Machine Learning. https://blog.bytescrum.com/probability-distributions-in-machine-learning.
 (2) Probability frequency distribution - Machine Learning Plus. https://www.machinelearningplus.com/probability/probability-frequency-distribution/.
 (3) Probabilistic Models in Machine Learning - GeeksforGeeks. https://www.geeksforgeeks.org/probabilistic-models-in-machine-learning/.
@@ -242,9 +241,7 @@ Descriptive statistics are crucial in the initial stages of data preprocessing f
 
 Descriptive statistics provide a foundation for more advanced statistical analysis and are essential for making informed decisions based on data. They help in summarizing large datasets, making them easier to understand and interpret¹².
 
-Feel free to ask for more details or examples on any specific aspect of descriptive statistics!
 
-Source: Conversation with Copilot, 22/09/2024
 (1) Descriptive and Inferential Statistics - Machine Learning Plus. https://www.machinelearningplus.com/statistics/descriptive-and-inferential-statistics/.
 (2) The Ultimate Guide to Statistics: Part 1— Descriptive ... - Towards AI. https://towardsai.net/p/l/the-ultimate-guide-to-statistics-part-1-descriptive-statistics.
 (3) Statistics-Based Data Preprocessing Methods and Machine Learning .... https://www.aut.upt.ro/~rprecup/IJAI_59.pdf.
@@ -290,9 +287,6 @@ Understanding probability and statistics is crucial for data preprocessing in AI
 
 ---
 
-Feel free to ask for more details or examples on any specific topic!
-
-Source: Conversation with Copilot, 22/09/2024
 (1) . https://bing.com/search?q=Data+Pre-processing+for+AI+%26+Machine+Learning+Probability+and+Statistics.
 (2) Probability & Statistics for Machine Learning & Data Science - Coursera. https://www.coursera.org/learn/machine-learning-probability-and-statistics.
 (3) Complete Data Science and AI Roadmap by ML+ - Machine Learning Plus. https://www.machinelearningplus.com/machine-learning/data-science-and-ai-roadmap/.
