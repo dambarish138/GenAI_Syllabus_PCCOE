@@ -176,7 +176,6 @@ Future research aims to improve the expressiveness and creativity of AI-generate
 Generative AI offers exciting possibilities for music composition, providing new tools and methods for creating original music. By understanding the underlying models and their applications, we can harness this technology to push the boundaries of musical creativity.
 
 
-Source: Conversation with Copilot, 22/09/2024
 (1) 20 Examples of Generative AI Applications Across Industries. https://www.coursera.org/articles/generative-ai-applications.
 (2) Top 100+ Generative AI Applications / Use Cases in 2024 - AIMultiple. https://research.aimultiple.com/generative-ai-applications/.
 (3) Generative AI: Use cases & Applications - GeeksforGeeks. https://www.geeksforgeeks.org/generative-ai-use-cases-applications/.
